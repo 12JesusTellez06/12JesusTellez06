@@ -6,14 +6,14 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 # 💻 Jose De Jesus Tellez Olloqui 
-### **Future Software Engineer | Computer Systems Engineering Student**
+### **Software Engineer | Computer Systems Engineering Student**
 
 ---
 
 ## 🚀 About Me
-I am a **Computer Systems Engineering** student at **TecNM Jiquilpan** (Instituto Tecnológico de Jiquilpan), passionate about building innovative digital solutions. My focus is on creating robust and scalable software through efficient coding and modern architectures.
+I am a **Computer Systems Engineering** student at **TecNM Jiquilpan**, passionate about building innovative digital solutions. My focus is on creating robust and scalable software through efficient coding and modern architectures.
 
-> **"Transforming complex ideas into functional, high-impact digital experiences."**
+
 
 ---
 
@@ -25,12 +25,11 @@ I specialize in developing native mobile applications and designing powerful bac
 
 ## 🎓 Academic Background
 * **Institution:** Instituto Tecnológico de Jiquilpan (**TecNM**)
-* **Major:** Computer Systems Engineering
 * **English Proficiency:** B1 Certified
 
 ---
 
-## 🏗️ Tech Stack
+## 🏗️ Skills
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -39,13 +38,6 @@ I specialize in developing native mobile applications and designing powerful bac
 | **Frontend & Mobile** | Android Studio, React.js, JavaScript |
 | **Frameworks** | Django |
 | **Tools** | Git & GitHub |
-
----
-
-## 🌱 Currently Learning & Growing
-* ✨ Deepening my expertise in **React.js** for modern web interfaces.
-* 🏗️ Mastering **Enterprise Java** architectures.
-* 🤝 Looking to collaborate on open-source projects and regional tech innovations.
 
 ---
 
@@ -59,6 +51,5 @@ I specialize in developing native mobile applications and designing powerful bac
 ## 📫 Reach Out to Me
 * 📧 **Email:** [ing.jjesus.tellezo@gmail.com](mailto:ing.jjesus.tellezo@gmail.com)
 * 📍 **Location:** Jiquilpan de Ocampo, Michoacán, Mexico 🇲🇽
-* ✔️ *Always open to new challenges and collaborations—if it’s tech, I’m in!*
 
 __Check out my GitHub repository:__
